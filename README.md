@@ -2,6 +2,9 @@
 
 <h1 align="center">Furniture Shopping Store</h1>
 
+<h2 align="center"><a href="https://furniture-shop-vanilla-js.netlify.app/" target="_blank">Project Page</a></h2>
+
+
 
 <!-- TABLE OF CONTENTS -->
 
@@ -20,7 +23,7 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
+- Where can I see your demo: 
 - What was your experience?
 - What have you learned/improved?
 - Your wisdom? :)
