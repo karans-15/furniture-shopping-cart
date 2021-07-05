@@ -161,7 +161,7 @@ class UI{
         });
         
         //parseFloat so it becomes a float from string;
-        cartTotal.innerText = parseFloat(priceTotal);
+        cartTotal.innerText = parseInt(priceTotal);
         cartItems.innerText = itemsTotal;
         //console.log(cartTotal,cartItems);
     }
