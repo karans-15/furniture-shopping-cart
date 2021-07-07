@@ -48,7 +48,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
     - Calculating Total
 
 - The webiste is responsive and also reacts to certain events
-- The product details are extracted from Live Dynamic data uploaded on the https://www.contentful.com/ using the contentful API. One can use the json file attached if they want to use fixed static data from their local machine
+- The product details are extracted from Live Dynamic data uploaded on https://www.contentful.com/ using the contentful API. One can use the json file attached if they want to use fixed static data from their local machine
 - The shopping cart items are stored on your local device so even when you refresh, your items will not be lost
 
 
