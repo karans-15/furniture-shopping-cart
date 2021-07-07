@@ -2,7 +2,7 @@
 
 <h1 align="center">Furniture Shopping Store</h1>
 
-<h2 align="center"><a href="https://furniture-shop-vanilla-js.netlify.app/" target="_blank">Project Page</a></h2>
+<h2 align="center"><a href="https://furniture-shop-vanilla-js.netlify.app/" target="_blank">Project Website</a></h2>
 
 
 
@@ -10,37 +10,53 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [How to use](#how-to-use)
+- Overview
+  - Built With
+- Features
+- Website Screenshots
+- How to use
+- Contact Me
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](images/ss1.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo: 
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Project Website: https://furniture-shop-vanilla-js.netlify.app/ 
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+- [Vanilla Js](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Features
+<!-- List the features of your application -->
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+- This website acts as a Shopping cart.
+- It has all the major functionalities like:
+    - Adding to Cart
+    - Removing from cart
+    - Clearing Cart
+    - Inceasting amount 
+    - Reducing amount
+    - Calculating Total
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/5ZnOYsSXM24JWnCsNFlt) was to build an application to complete the given user stories.
+- The webiste is responsive and also reacts to certain events
+- The shopping cart items are stored on your local device so even when you refresh, your items will not be lost
+
+
+## Website Screenshots:
+
+![screenshot](images/ss2.png)
+![screenshot](images/ss3.png)
+![screenshot](images/ss4.png)
+![screenshot](images/ss5.png)
 
 ## How To Use
 
@@ -50,7 +66,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/karans_15furniture-shopping-cart
 
 # Install dependencies
 $ npm install
@@ -59,16 +75,7 @@ $ npm install
 $ npm start
 ```
 
-## Acknowledgements
+## Contact Me
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
-## Contact
-
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@karans-15](https://{github.com/karans-15})
+- LinkedIn [@karan-n-shah](https://www.linkedin.com/in/karan-n-shah/)
